@@ -27,7 +27,7 @@ namespace Laba6
             public void sleep()
             {
 
-                Console.WriteLine("дрыхнет");
+                Console.WriteLine("спит");
             }
         }
         class Dog : Animal
